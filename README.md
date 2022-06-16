@@ -1,4 +1,4 @@
-# capstoneproject
+# LEARN capstoneproject
 build WebCafe with Cloud AWS
 # Step 0:  Inspect the archtecture 
 - Inspect the example VPC. 
@@ -104,3 +104,5 @@ Add the following parameters to the Parameter Store and set the correct values:
 2. /example/username   
 3. /example/password  
 4. /example/database exampledb
+--------------------------------
+More Info : CC By Search On Youtube Channel Cloud Computing in AWS
