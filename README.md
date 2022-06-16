@@ -105,4 +105,4 @@ Add the following parameters to the Parameter Store and set the correct values:
 3. /example/password  
 4. /example/database exampledb
 --------------------------------
-More Info : CC By Reference on youtube Cloud Computing in AWS / https://wwww.youtube.com/watch?v=AwH6drwfuAU&ab_channel=CloudComputinginAWS
+More Info : CC By Reference on youtube Cloud Computing in AWS.
