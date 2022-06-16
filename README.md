@@ -82,6 +82,10 @@ mysql -u admin -p --host <rds-endpoint>
 show tables; 
 
  ```
+ # Step 7
+ ```
+ s
+ ```
  
   
 4. Import the data into the RDS database.
