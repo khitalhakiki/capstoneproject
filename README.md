@@ -81,16 +81,14 @@ mysql -u admin -p --host <rds-endpoint>
  use exampledb;	
 show tables; 
 
- ```
- # Step 7
- ```
- s
- ```
- 
-  
+ ``` 
 4. Import the data into the RDS database.
 ```sh
 mysql -u admin -p exampledb --host <rds-endpoint>  < Countrydatadump.sql       
+```
+# Tes
+```
+
 ```
 # Test the ALB 
 - Test data was imported 
