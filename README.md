@@ -1,4 +1,4 @@
-# LEARN capstoneproject
+# LEARN capstoneproject Cloud Architecting
 build WebCafe with Cloud AWS
 # Step 0:  Inspect the archtecture 
 - Inspect the example VPC. 
